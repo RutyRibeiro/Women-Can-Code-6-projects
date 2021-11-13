@@ -50,4 +50,44 @@ COMPARAÇÃO
 <=  menor ou igual
 
 ---------------------------------------------
+
+ARROW FUNCTION
+
+const myArrowFunction = () => {
+    
+}
+
+---------------------------------------------
+
+LOOPS
+
+FOR .........................................
+
+for(let contador = 1; contador <= 5; contador++) {
+
+}
+
+WHILE ......................................
+
+while(contador<=5){
+    contador++
+}
+
+DO ... WHILE ................................
+
+do{
+
+}while(contador<=5)
+
+FOREACH......................................
+
+meuArray.foreEach(function(item){
+    console.log(item)
+})
+
+MAP..........................................
+
+mesma assinatura do foreach porem retorna um array
+
+
 */
